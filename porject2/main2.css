@@ -1,0 +1,6 @@
+div{
+	background-color: azure;
+	border: 10px solid green;
+	padding: 30px;
+	border-width: 10px, solid,green;
+}
